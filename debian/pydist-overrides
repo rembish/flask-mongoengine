@@ -1,0 +1,3 @@
+flask python-flask
+flask-wtf python-flaskext.wtf
+mongoengine python-mongoengine

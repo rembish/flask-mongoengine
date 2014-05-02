@@ -1,0 +1,5 @@
+python-flask-mongoengine (0.7.1RC1) precise; urgency=low
+
+  * Debianization.
+
+ -- Aleksey Rembish <alex@rembish.org>  Fri, 02 May 2014 17:39:01 +0200

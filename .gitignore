@@ -1,3 +1,5 @@
+debian/files
+debian/python-flask-mongoengine*
 *.pyc
 .*.swp
 *.egg

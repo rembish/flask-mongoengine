@@ -1,3 +1,4 @@
+#!/usr/bin/env python
 """
 Flask-MongoEngine
 --------------
@@ -22,7 +23,7 @@ except:
 
 setup(
     name='flask-mongoengine',
-    version='0.7.0RC1',
+    version='0.7.1RC1',
     url='https://github.com/mongoengine/flask-mongoengine',
     license='BSD',
     author='Ross Lawley',
